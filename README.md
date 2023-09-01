@@ -10,7 +10,7 @@
 
 # Projeto - Aprendendo a escrever um README
 
-![image info](img/Capa.png)
+![image info](img/Capa.png)!
 
 ## Descrição
 
