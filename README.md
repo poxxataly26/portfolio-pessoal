@@ -10,7 +10,7 @@
 
 # Projeto - Aprendendo a escrever um README
 
-![image info](img/Capa.png)
+![image info](https://github.com/poxxataly26/portfolio-pessoal/blob/main/Img/Capa.png)
 
 ## Descrição
 
