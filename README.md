@@ -13,26 +13,19 @@
 ![image info](https://github.com/poxxataly26/portfolio-pessoal/blob/main/Img/Capa.png)
 
 ## Descrição
-
-    É um projeto de capa que tem o Inicio que é a tela principal, temos Novidades que fala um pouco sobre o aplicativo e suas funcionalidades e fala também sobre as proximas atualizações do app e tem o contato se caso o usuario se interresar pelo conteudo ou estiver com algum problema.
-
+É um projeto de capa que tem o Inicio que é a tela principal, temos Novidades que fala um pouco sobre o aplicativo e suas funcionalidades e fala também sobre as proximas atualizações do app e tem o contato se caso o usuario se interresar pelo conteudo ou estiver com algum problema.
 ## Introdução
 
 ## Funcionalidades
 
 ### Tecnologias utilizadas
-
-    USAMOS 
-
+USAMOS 
 .HTML
 .CSS
 .IMG
-
 ## Fontes consultadas
-
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
-https://www.alura.com.br/artigos/escrever-bom-readme
-
+https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89  
+https://www.alura.com.br/artigos/escrever-bom-readme  
 ## Autores
 
 Talyta
