@@ -24,8 +24,10 @@ Usamos
 .CSS  
 .IMG  
 ## Fontes consultadas
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89  
-https://www.alura.com.br/artigos/escrever-bom-readme  
+
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+    https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89  
+  
 ## Autores
 
 Talyta
