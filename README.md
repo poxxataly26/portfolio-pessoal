@@ -29,5 +29,5 @@ https://www.alura.com.br/artigos/escrever-bom-readme
 ## Autores
 
 Talyta
-![image info](img/foto.jpeg)
+![image info](img/https://github.com/poxxataly26/portfolio-pessoal/blob/main/img/foto.jpeg)
 
