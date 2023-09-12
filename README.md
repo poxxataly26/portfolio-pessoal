@@ -35,6 +35,6 @@ ___
 ## Autores
 
 Talyta
-<img src="img/foto.jpeg">
+![Foto da autora](https://github.com/poxxataly26/portfolio-pessoal/blob/main/Img/foto.jpeg)
 
 
