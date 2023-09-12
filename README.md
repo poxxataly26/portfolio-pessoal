@@ -31,8 +31,9 @@ Usamos
 
 * [Exemplo de README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
   
+___
 ## Autores
 
 Talyta
-![image info](img/foto.jpeg)
+![Foto da autora](img/foto.jpeg)
 
