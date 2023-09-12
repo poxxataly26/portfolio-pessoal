@@ -26,15 +26,12 @@ Usamos
 ## Fontes consultadas
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
-    
-* [Talyta](https://github.com/poxxataly26/portfolio-pessoal) 
-
-* [Exemplo de README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+* [Exemplo de README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Exemplo de README
   
 ___
 ## Autores
 
-Talyta
+[Talyta](https://github.com/poxxataly26/portfolio-pessoal) 
 
 <img src="https://github.com/poxxataly26/portfolio-pessoal/blob/main/Img/foto.jpeg" width="100px">
 
