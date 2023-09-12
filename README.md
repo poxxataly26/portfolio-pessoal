@@ -27,7 +27,7 @@ Usamos
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
     
-* [Talyta](https://github.com/poxxataly26/portfolio-pessoal) - Meu github
+* [Talyta](https://github.com/poxxataly26/portfolio-pessoal) 
   
 ## Autores
 
