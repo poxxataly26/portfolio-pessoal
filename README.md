@@ -35,5 +35,6 @@ ___
 ## Autores
 
 Talyta
-![Foto da autora](img/foto.jpeg)
+<img src="img/foto.jpeg">
+
 
