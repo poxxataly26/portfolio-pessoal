@@ -15,9 +15,9 @@
 ## Descrição
 É um projeto de capa que tem o Inicio que é a tela principal, temos Novidades que fala um pouco sobre o aplicativo e suas funcionalidades e fala também sobre as proximas atualizações do app e tem o contato se caso o usuario se interresar pelo conteudo ou estiver com algum problema.
 ## Introdução
-
+Esse é um código HTML que começa com a declaração do tipo de documento (`<!doctype html>`) seguido da abertura da estrutura da página. Em seguida, há uma seção `head` que contém metadados como a codificação de caracteres, a descrição do conteúdo da página, autor, título, etc. Além disso, há links para importar o CSS do Bootstrap e um arquivo de estilo personalizado. A seção `body` contém a estrutura do conteúdo da página, composta por elementos como header, main e footer, cada um com seu próprio conteúdo, como títulos, botões, textos e links.
 ## Funcionalidades
-
+Esse código é uma página HTML que utiliza o framework Bootstrap v5.0 para criar uma página de capa responsiva. O código inclui imports do CSS do Bootstrap e de um arquivo de estilo personalizado. Além disso, há a criação de um header, main e footer. O header inclui um menu de navegação com três opções. O main é composto por um título e um botão de call-to-action. O footer inclui informações sobre o modelo utilizado.
 ### Tecnologias utilizadas
 Usamos   
 .HTML  
