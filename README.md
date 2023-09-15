@@ -23,9 +23,10 @@ Esse código é uma página HTML que utiliza o framework Bootstrap v5.0 para cri
 
 ### Tecnologias utilizadas
 Usamos   
-.HTML  
-.CSS  
+.HTML5
+.CSS3
 .IMG  
+.Buster captcha
 ## Fontes consultadas
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
